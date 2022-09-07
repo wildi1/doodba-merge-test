@@ -1,2 +1,2 @@
 # doodba-merge-test
-# MY PR
+# Direct Commit after PR 1
